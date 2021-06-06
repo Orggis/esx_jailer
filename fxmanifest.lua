@@ -7,7 +7,6 @@ client_scripts {
 	'clientti.lua'
 }
 
-client_script("@DiscordLogit/xdlol.lua")
 
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',
